@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6550d00e6fd1c0eb126db303"
+  },
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "genre": "Aventura",
+  "members": "Eiji Aonuma, Hidemaro Fujibayashi, Takumi Kawagoe",
+  "edition": 2017,
+  "total_score": 0
+},
+{
+  "_id": {
+    "$oid": "6550d0456fd1c0eb126db304"
+  },
+  "name": "Red Dead Redemption 2",
+  "genre": "Acción y Aventura",
+  "members": "Dan Houser, Michael Unsworth, Rob Wiethoff",
+  "edition": 2018,
+  "total_score": 0
+},
+{
+  "_id": {
+    "$oid": "6550d06c6fd1c0eb126db305"
+  },
+  "name": "Fortnite",
+  "genre": "Battle Royale",
+  "members": "Darren Sugg, Donald Mustard, Eric Williamson",
+  "edition": 2017,
+  "total_score": 0
+},
+{
+  "_id": {
+    "$oid": "6550d08d6fd1c0eb126db306"
+  },
+  "name": "Cyberpunk 2077",
+  "genre": "Acción",
+  "members": "Adam Badowski, Marcin Iwiński, Mike Pondsmith",
+  "edition": 2020,
+  "total_score": 0
+},
+{
+  "_id": {
+    "$oid": "6550d0fe6fd1c0eb126db30b"
+  },
+  "name": "Among Us",
+  "genre": "Multijugador",
+  "members": "Forest Willard, Marcus Bromander, Victoria Tran",
+  "edition": 2018,
+  "total_score": 0
+},
+{
+  "_id": {
+    "$oid": "6550d1176fd1c0eb126db30c"
+  },
+  "name": "FIFA 22",
+  "genre": "Deportes",
+  "members": "David Rutter, Sam Rivera, Aaron McHardy",
+  "edition": 2021,
+  "total_score": 0
+}]
